@@ -33,10 +33,10 @@
     border-bottom: 1px ridge;
 }
 
-.leadership{
+/* .row-content  {
     margin: 0px auto;
     padding: 30px 0px;
-}
+} */
 
 body{
     padding-top:50px;
@@ -45,4 +45,7 @@ body{
 
 .navbar-dark{
     background-color: #512DA8;
+}
+.col-12 .text-center a {
+    margin-right: 10px;
 }
